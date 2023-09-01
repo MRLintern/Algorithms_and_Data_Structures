@@ -2,7 +2,8 @@
 
 ### Introduction
 
-This "project" looks at all Data Structures and Alogorithms developed in `C++`.
+This repo. contains all common Data Structures and Algorithms developed in C++.
+This is a work in progress.
 
 ### Whats covered
 
