@@ -1,9 +1,9 @@
-### C++ Data Structures & Algorithms
+### C & C++ Data Structures & Algorithms
 
 ### Introduction
 
-This repo. contains all common Data Structures and Algorithms developed in C++.
-This is a work in progress.
+This repo. contains all common Data Structures and Algorithms developed in C & C++.
+This is a work in progress. Python will probably get covered too.
 
 ### Whats covered
 
