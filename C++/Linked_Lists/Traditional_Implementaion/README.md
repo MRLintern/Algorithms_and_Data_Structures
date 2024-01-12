@@ -2,7 +2,7 @@
 
 * `$ git clone https://github.com/MRLintern/Algorithms_and_Data_Structures/C++/Linked_Lists/Traditional_Implementation.git`
 * `$ mkdir build && cd build`
-* `$ cmake ..
+* `$ cmake ..`
 * `$ make`
 * `$ linked-lists`
 
