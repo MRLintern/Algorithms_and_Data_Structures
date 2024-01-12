@@ -2,8 +2,7 @@
 
 ### Introduction
 
-This repo. contains all common Data Structures and Algorithms developed in C & C++.
-This is a work in progress. Python will probably get covered too.
+This repo contains all common Data Structures and Algorithms developed in C & C++.
 
 ### Whats covered
 
