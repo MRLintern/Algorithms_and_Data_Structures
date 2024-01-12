@@ -4,7 +4,7 @@
 * `$ mkdir build && cd build`
 * `$ cmake ..`
 * `$ make`
-* `$ linked-lists`
+* `$ ./linked-lists`
 
 ## Expected Output
 
