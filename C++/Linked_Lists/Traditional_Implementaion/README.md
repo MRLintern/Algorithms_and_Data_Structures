@@ -8,8 +8,8 @@
 
 ## Expected Output
 
-Head: 4
-Tail: 4
-Length: 1
-Linked List:
-4
+* Head: 4
+* Tail: 4
+* Length: 1
+* Linked List:
+* 4
