@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Covers implenting Linked Lists in the "traditional" way and using __forward_list__ container.
+Covers implenting Linked Lists in the "traditional" way and using the __forward_list__ container.
 
 ## Application
 
