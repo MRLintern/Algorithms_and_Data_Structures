@@ -1,1 +1,16 @@
+cmake_minimum_required(VERSION 3.18.3)
+
+set(PROJECT_NAME main)
+
+project(${PROJECT_NAME})
+
+set(CMAKE_BUILD_TYPE debug)
+
+set(CMAKE_CXX_FLAGS "-std=c++17 -Wall")
+set(CMAKE_CXX_FLAGS_DEBUG "-g -std=c++17 -Wall")
+
+file(GLOB SOURCES "./src/*.cpp")
+add_executable(${PROJECT_NAME} ${SOURCES})
+
+set_property(DIRECTORY ${CMAKE_CURRENT_SOURCE_DIR} PROPERTY VS_STARTUP_PROJECT ${PROJECT_NAME})
 
