@@ -7,8 +7,9 @@ This repo contains all common Data Structures and Algorithms developed in C & C+
 ### Requirements
 
 * Text Editor (or IDE).
-* Developed on `Ubuntu 20.04`
-* Compiler which supports `C++17`. Not always essential; depends on the Data Structure and Algorithm
+* Developed on `Ubuntu 20.04`.
+* Compiler which supports `C++17`. Not always essential; depends on the Data Structure and Algorithm.
+* `CMake`.
 
 ### Whats covered
 
