@@ -6,4 +6,4 @@ Compare the source file for each.
 
 * `$ mkdir build && cd build`
 * `$ cmake .. && make`
-* `./main`
+* `$ ./main`
